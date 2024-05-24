@@ -14,3 +14,7 @@ The product manager requested us to provide a means to
   <li>correctly predict high traffic recipes 80% of the time.</li>
 </ol>
 
+For more details see the instructions file.
+
+## Remark
+There is no Git history for this project as the development was fully conducted on the DataCamp platform and only loaded onto Github after completion.
